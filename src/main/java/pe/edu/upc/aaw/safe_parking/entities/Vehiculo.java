@@ -1,4 +1,4 @@
-package pe.edu.upc.aaw.safe_parking.dtos;
+package pe.edu.upc.aaw.safe_parking.entities;
 
 public class Vehiculo {
     private int idVehiculo;
